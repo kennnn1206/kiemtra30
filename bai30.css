@@ -11,7 +11,7 @@ header {
     left: 0;
     width: 85%;
     height: 50px;
-    padding: 15px 100px;
+    padding: 15px 92px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -121,6 +121,7 @@ h2{
     color: white;
     margin-left: 80px;
     padding: 20px;
+    font-size: 20px;
 }
 .hop3{
     width: 100%;
@@ -267,7 +268,7 @@ h2{
 }
 .anh{
     background-color: rgb(247, 243, 243);
-    width: 500px;
+    width: 400px;
     height: 650px;
     text-align: center;
     gap: 10px;
@@ -522,6 +523,7 @@ footer{
     justify-content: end;
 }
 .id-footer h2{
+    width: 340px;
     text-align: end;
 }
 .footer_link{
